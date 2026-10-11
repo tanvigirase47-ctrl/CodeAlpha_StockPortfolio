@@ -1,0 +1,13 @@
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+venv/
+.venv/
+
+# Visual Studio Code settings
+.vscode/
+
+# Generated portfolio file
+stock_portfolio.csv
