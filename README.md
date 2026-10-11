@@ -44,19 +44,11 @@ Note: These are predefined sample prices, not live market prices.
 
 Download Python from https://www.python.org/downloads/ if it is not already installed.
 
-### Step 2: Clone the Repository
-
-```bash
-git clone YOUR_GITHUB_REPOSITORY_URL
-```
-
-Alternatively, download the repository from GitHub.
-
-### Step 3: Open the Project
+### Step 2: Open the Project
 
 Open the project folder in Visual Studio Code.
 
-### Step 4: Run the Program
+### Step 3: Run the Program
 
 Open the terminal and execute:
 
@@ -64,7 +56,7 @@ Open the terminal and execute:
 python stock_tracker.py
 ```
 
-### Step 5: Enter Stock Details
+### Step 4: Enter Stock Details
 
 1. Enter the number of different stocks.
 2. Enter each stock symbol.
